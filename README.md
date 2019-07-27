@@ -22,3 +22,7 @@ I'm looking forward to learning more about:
 
 #### Markdown
 [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
+
+#### VS Code
+
+- C-Shift v to preview a Markdown file
