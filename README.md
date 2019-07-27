@@ -1,5 +1,6 @@
 # RiceFintechBootcamp
 ![Rice Logo](https://upload.wikimedia.org/wikipedia/commons/b/bc/Rice_Owls_logo.svg)
+
 ## About Me
 Hi, I'm Will. I'm enjoying bootcamp so far. 
 
